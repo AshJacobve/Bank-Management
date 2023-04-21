@@ -1,5 +1,5 @@
 # Bank Management
-This is a Python script for a simple bank management system that allows users to manage their accounts, deposit money, withdraw money, view transaction history, and invest in crypto/stocks.
+This is a Python script for a simple bank management system with **MySQL Connectivity** that allows users to manage their accounts, deposit money, withdraw money, view transaction history, and invest in crypto/stocks.
 
 ## Features
 * __Account creation__: Users can create a new account by providing their name, email address, and initial deposit amount.  
